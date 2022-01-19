@@ -20,35 +20,16 @@ const inquirer = require('inquirer');
 
 class Employee {
     constructor(name, id, email) {
-        this.name = name = () => {inquirer
-        .prompt([
-            {
-                type: "input",
-                message: "Whats your name?",
-                name: "yourName",
-                
-            }])
-            .then((answers) => {
-                console.log(answers);
-            })
+        this.name = name;
         this.id = id;
         this.email = email;
 
-    }
+    
 }
     getName = () => {
-        // inquirer
-        //     .prompt([
-        //         {
-        //             type: "input",
-        //             message: "Whats your name?",
-        //             name: "yourName",
-                    
-        //         }])
-        //         .then((answers) => {
-        //             console.log(answers);
+      
         return this.name;
-    // })
+    
 }
     getId = () => {
         return this.id;
