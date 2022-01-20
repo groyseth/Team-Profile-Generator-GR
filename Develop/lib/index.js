@@ -56,7 +56,7 @@ function managerQuestions() {
 
         })
 }
-// engineer’s name, ID, email, and GitHub username
+
 function engineerQuestions() {
     inquirer
         .prompt([
@@ -159,7 +159,7 @@ function internQuestions() {
 
 
 function finishedBuild (){
-    // console.log(answers);
+
     var htmlStr = makeToFile(employeeArray);
     console.log(htmlStr);
      fs.writeFile('../dist/team.html', htmlStr, (err)=> {
