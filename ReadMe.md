@@ -23,7 +23,7 @@ This generator will help you complete a team layout. You can add the team manage
 - [Questions](#questions)
 
 ## Installation
-You will need to clone this repo. use npm i to install inquirer and install jest. Use node index.js to run the project!  
+You will need to clone this repo. Use npm i to install inquirer and install jest. Use node index.js to run the project!  
 
 ## Usage
 Use node index.js in the terminal to run the project.  
@@ -48,4 +48,5 @@ Install jest and open an intergrated terminal, then use ' npm run test'.
 ## Questions
 
 My profile page [GitHub](https://github.com/groyseth)
+
 Reach me at [Email](Groyseth@gmail.com)
