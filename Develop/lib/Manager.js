@@ -12,9 +12,17 @@ class Manager extends Employee {
         return "Manager";
     }
     getOfficeNumber = () => {
-
+        // inquirer
+        //     .prompt([
+        //         {
+        //             type: "input",
+        //             message: "What is the manager name?",
+        //             name: "managerName"
+        //         }
+        
+        //     ])}
         return 100;
     }
 }
-
 module.exports = Manager;
+// module.exports = getOfficeNumber();
