@@ -4,7 +4,14 @@
  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Description  
 
-This generator will help you complete a team layout. You can add the team manager, an engineer, and an intern1! You will be prompted a seires of questions and when your done, a folder will be made called team.html.
+![Untitled_ Jan 20, 2022 3_51 PM (2)](https://user-images.githubusercontent.com/90479839/150428663-03a27919-b10a-4c4e-aa1c-3a6222a3464a.gif)
+
+[video link](https://watch.screencastify.com/v/lipLyZ1pavKT6y3DaNUb)
+
+[sample html link](https://github.com/groyseth/Team-Profile-Generator-GR/blob/main/Develop/dist/team.html)
+
+This generator will help you complete a team layout. You can add the team manager, an engineer, and an intern1! You will be prompted a seires of questions and when your done, a 
+ will be made called team.html. There is already styling on the page with cards for each person. On the cards for manager there is id, email and office number for the intern there si id, email and school and for the engineer there is id, email and github username.
 ## Table of Contents 
 
 - [Installation](#installation)
