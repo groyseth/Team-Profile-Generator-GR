@@ -48,4 +48,4 @@ Install jest and open an intergrated terminal, then use ' npm run test'.
 ## Questions
 
 My profile page [GitHub](https://github.com/groyseth)
-groyseth@gmail.com
+Reach me at [Email](Groyseth@gmail.com)
