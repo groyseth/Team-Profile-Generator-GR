@@ -10,7 +10,7 @@
 
 [sample html link](https://github.com/groyseth/Team-Profile-Generator-GR/blob/main/Develop/dist/team.html)
 
-This generator will help you complete a team layout. You can add the team manager, an engineer, and an intern1! You will be prompted a seires of questions and when your done, a 
+This generator will help you complete a team layout. You can add the team manager, an engineer, and an intern! You will be prompted a seires of questions and when your done, a 
  will be made called team.html. There is already styling on the page with cards for each person. On the cards for manager there is id, email and office number for the intern there si id, email and school and for the engineer there is id, email and github username.
 ## Table of Contents 
 
@@ -49,4 +49,4 @@ Install jest and open an intergrated terminal, then use ' npm run test'.
 
 My profile page [GitHub](https://github.com/groyseth)
 
-Reach me at [Email](Groyseth@gmail.com)
+Reach me at [Gmail](Groyseth@gmail.com)
