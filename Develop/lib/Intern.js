@@ -1,5 +1,3 @@
-const inquirer = require('inquirer');
-
 const Employee = require('./Employee');
 
 class Intern extends Employee {
@@ -9,7 +7,7 @@ class Intern extends Employee {
     }
     getRole = () => {
 
-        return "intern";
+        return "Intern";
     }
     getSchool = () => {
 

@@ -1,5 +1,3 @@
-const inquirer = require('inquirer');
-
 const Employee = require('./Employee');
 
 class Manager extends Employee {
@@ -12,15 +10,7 @@ class Manager extends Employee {
         return "Manager";
     }
     getOfficeNumber = () => {
-        // inquirer
-        //     .prompt([
-        //         {
-        //             type: "input",
-        //             message: "What is the manager name?",
-        //             name: "managerName"
-        //         }
-        
-        //     ])}
+
        
         return this.officeNumber;
         
