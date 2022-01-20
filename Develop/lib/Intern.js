@@ -9,11 +9,11 @@ class Intern extends Employee {
     }
     getRole = () => {
 
-        return "Intern";
+        return "intern";
     }
     getSchool = () => {
 
-        return "UCLA";
+        return this.school;
     }
 }
 

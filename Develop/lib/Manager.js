@@ -21,7 +21,9 @@ class Manager extends Employee {
         //         }
         
         //     ])}
-        return 100;
+       
+        return this.officeNumber;
+        
     }
 }
 module.exports = Manager;
